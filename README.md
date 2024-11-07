@@ -47,4 +47,3 @@ Advanced Features:
 Language and Tools:
 1.	Programming Language: Python
 2.  Text Editor: VS Code
-2. 
